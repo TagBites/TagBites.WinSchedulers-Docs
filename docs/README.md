@@ -4,6 +4,10 @@ Fast and easy customized WPF schedulers controls.
 
 NuGet Package: https://www.nuget.org/packages/TagBites.WinSchedulers/
 
+![](_media/TimeScheduler_Customization_1264x681.png)
+![](_media/TimeScheduler_Performance_1264x681.png)
+
+
 ## TimeScheduler example
 
 ![](_media/TimeScheduler_Simple_1264x681.png)
