@@ -1,6 +1,6 @@
 # TagBites.WinSchedulers
 
-Fast and easy customized WPF schedulers controls.
+Fast and easy customized WPF schedulers controls. Inculding time scheduler / gantt control and bucket scheduler.
 
 NuGet Package: https://www.nuget.org/packages/TagBites.WinSchedulers/
 
